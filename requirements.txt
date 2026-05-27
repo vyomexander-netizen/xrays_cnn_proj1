@@ -6,3 +6,4 @@ numpy
 tensorflow
 streamlit-geolocation
 matplotlib
+tf-keras-vis
