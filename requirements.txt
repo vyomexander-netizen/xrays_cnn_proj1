@@ -5,3 +5,4 @@ pillow
 numpy
 tensorflow
 streamlit-geolocation
+matplotlib
