@@ -1,17 +1,15 @@
-# virtual env
+# Secret folder
+.streamlit/
+
+# Environment
 .venv/
 
-# datasets (VERY IMPORTANT)
+# Datasets
 COVID19/
 NORMAL/
 PNEUMONIA/
 TUBERCULOSIS/
 
-# images (optional safety)
-*.png
-*.jpg
-*.jpeg
-
-# cache
+# Cache
 __pycache__/
 .ipynb_checkpoints/
