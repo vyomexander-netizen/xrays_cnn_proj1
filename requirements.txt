@@ -4,3 +4,4 @@ streamlit-geolocation
 pillow
 numpy
 tensorflow
+streamlit-geolocation
