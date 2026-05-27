@@ -1,10 +1,2 @@
-tensorflow
-keras
-numpy
-pandas
-matplotlib
-seaborn
-opencv-python
-scikit-learn
-pillow
-grad-cam
+streamlit
+requests
