@@ -1,0 +1,17 @@
+# virtual env
+.venv/
+
+# datasets (VERY IMPORTANT)
+COVID19/
+NORMAL/
+PNEUMONIA/
+TUBERCULOSIS/
+
+# images (optional safety)
+*.png
+*.jpg
+*.jpeg
+
+# cache
+__pycache__/
+.ipynb_checkpoints/
