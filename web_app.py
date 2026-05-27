@@ -21,7 +21,7 @@ classes = [
 # =========================
 # PAGE CONFIG
 # =========================
-st.set_page_config(page_title="Chest X-Ray Disease Detection", layout="top")
+st.set_page_config(page_title="Chest X-Ray Disease Detection", layout="wide")
 
 st.title("Chest X-Ray Disease Detection")
 
